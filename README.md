@@ -7,5 +7,7 @@ Aplikasi yang saya buat adalah aplikasi untuk jadwal penerbangan
 
 Untuk tampilan aplikasi dapat dilihat pada gambar di bawah ini :
 <img src="https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/1.png">
+
 <img src="https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/2.png">
+
 <img src="https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/3.png">
