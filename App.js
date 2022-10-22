@@ -1,6 +1,6 @@
 //Nama : GILANG ASHARI ABIMANYU
 // Nim : 119140040
-// Kelas : RA
+// Kelas : RB
 
 import { Text,
    View, 
