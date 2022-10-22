@@ -1,0 +1,52 @@
+[
+    {
+        "jadwal_id": "22 oktober 2022",
+        "bandara_kode_keberangkatan": "Lampung",
+        "bandara_kode_tujuan": "Medan",
+        "maskapai_id": "1",
+        "maskapai_nama": "Lion",
+        "maskapai_logo": "lion",
+        "bandara_kode": "Pesawat Gilang",
+        "bandara_nama": "Medan Bandara"
+    },
+    {
+        "jadwal_id": "22 oktober 2022",
+        "bandara_kode_keberangkatan": "Lampung",
+        "bandara_kode_tujuan": "Medan",
+        "maskapai_id": "2",
+        "maskapai_nama": "Lion",
+        "maskapai_logo": "lion",
+        "bandara_kode": "Pesawat Ashari",
+        "bandara_nama": "Medan Bandara"
+    },
+    {
+        "jadwal_id": "22 oktober 2022",
+        "bandara_kode_keberangkatan": "Lampung",
+        "bandara_kode_tujuan": "Medan",
+        "maskapai_id": "3",
+        "maskapai_nama": "Lion",
+        "maskapai_logo": "lion",
+        "bandara_kode": "Pesawat Abimanyu",
+        "bandara_nama": "Medan Bandara"
+    },
+    {
+        "jadwal_id": "22 oktober 2022",
+        "bandara_kode_keberangkatan": "Jakarta",
+        "bandara_kode_tujuan": "Medan",
+        "maskapai_id": "1",
+        "maskapai_nama": "Lion",
+        "maskapai_logo": "lion",
+        "bandara_kode": "Pesawat Itera",
+        "bandara_nama": "Medan Bandara"
+    },
+    {
+        "jadwal_id": "22 oktober 2022",
+        "bandara_kode_keberangkatan": "Papua",
+        "bandara_kode_tujuan": "Medan",
+        "maskapai_id": "1",
+        "maskapai_nama": "Lion",
+        "maskapai_logo": "lion",
+        "bandara_kode": "Pesawat Pelita",
+        "bandara_nama": "Medan Bandara"
+    }
+]
