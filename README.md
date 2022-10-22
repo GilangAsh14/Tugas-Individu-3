@@ -6,6 +6,6 @@ KELAS : RB
 Aplikasi yang saya buat adalah aplikasi untuk jadwal penerbangan
 
 Untuk tampilan aplikasi dapat dilihat pada gambar di bawah ini :
-https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/1.png
-https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/2.png
-https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/3.png
+<img src="https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/1.png">
+<img src="https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/2.png">
+<img src="https://github.com/GilangAsh14/Tugas-Individu-3/blob/main/3.png">
